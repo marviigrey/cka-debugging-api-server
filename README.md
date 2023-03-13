@@ -41,3 +41,5 @@ The general technique for what you need to do is discussed on [this page](https:
     ```
 
     If you fixed it, then pods will be listed. If you are still getting an error, redo the [debugging process](https://github.com/kodekloudhub/community-faq/blob/main/docs/diagnose-crashed-apiserver.md) until you have fixed it.
+    
+  Completed all challenges
